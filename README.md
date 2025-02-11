@@ -1,15 +1,19 @@
 # Envy
 *Envy's Loyalty Points System Policy*
 
+
 1. Introduction
 
 This Loyalty Point System is designed to reward our valued customers for their continued support towards the community of Fenixx Officials. By participating in this Program, customers agree to the terms and conditions outlined in this policy.
+
+
 
 2. Eligibility
 
 The Program is open to all the customers.
 
 A minimum invoice value of ₹300 is required to earn points.
+
 
 
 3. Earning Points
@@ -23,6 +27,7 @@ Special promotions/packs may offer additional points.
 Points may also be earned through specific activities, such as referrals, sharing too.
 
 
+
 4. Redeeming Points
 
 Points can be redeemed for discounts, products, or other rewards as specified by Fenixx Officials.
@@ -34,11 +39,13 @@ MAXIMUM redemption of points allowed per invoice: 10% of the invoice value.
 MINIMUM invoice value required to redeem Envy's Loyalty points: ₹500.
 
 
+
 5. Expiration and Forfeiture
 
 Points expire after 9 months from the date they were earned if not redeemed. 
 
 Expired Points Cannot Be Reissued.
+
 
 
 6. Restrictions
@@ -51,11 +58,13 @@ Certain purchases or services may be excluded from earning or redeeming points.
 We reserve the right to modify the earning or redemption rates at any time. 
 
 
+
 7. Program Changes and Termination
 
 We reserve the right to modify, suspend, or terminate the Program at any time without prior notice. 
 
 In case of termination of the policy, participants will have 7 days to redeem any remaining points.
+
 
 
 8. Dispute Resolution
